@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/hirdesh-kumar-498498118">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=hirdeshhirru@gmail.com&su=SUBJECT&body=BODY&tf=cm">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=hirdeshkumr17@gmail.com&su=SUBJECT&body=BODY&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://twitter.com/hirdesY">
